@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aadithya2201/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aadithya2201/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
