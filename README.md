@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aadithya2201/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aadithya2201/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aadithya2201/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3684-substring-matching-pattern](https://github.com/Aadithya2201/Leetcode/tree/master/3684-substring-matching-pattern) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Aadithya2201/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
