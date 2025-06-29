@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aadithya2201/Leetcode/tree/master/0242-valid-anagram) |
+| [3684-substring-matching-pattern](https://github.com/Aadithya2201/Leetcode/tree/master/3684-substring-matching-pattern) |
 ## Sorting
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Aadithya2201/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
+## String Matching
+|  |
+| ------- |
+| [3684-substring-matching-pattern](https://github.com/Aadithya2201/Leetcode/tree/master/3684-substring-matching-pattern) |
 <!---LeetCode Topics End-->
