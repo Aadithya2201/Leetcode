@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Aadithya2201/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Aadithya2201/Leetcode/tree/master/0242-valid-anagram) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aadithya2201/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3684-substring-matching-pattern](https://github.com/Aadithya2201/Leetcode/tree/master/3684-substring-matching-pattern) |
 ## Sorting
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aadithya2201/Leetcode/tree/master/0050-powx-n) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aadithya2201/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
