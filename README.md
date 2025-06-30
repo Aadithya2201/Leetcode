@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aadithya2201/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Aadithya2201/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aadithya2201/Leetcode/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Aadithya2201/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Aadithya2201/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
