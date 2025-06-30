@@ -1,14 +1,14 @@
-class Solution:
-    def countPrimes(self, n: int) -> int:
-        count=0
-        if(n==0 or n==1):
+class Solution(object):
+    def countPrimes(self, n):
+        if n <= 2:
             return 0
-        sieve=[True]*n
-        sieve[0]=sieve[1]=0
-        i=2
-        while i*i<n:
-            if sieve[i]:
-                for j in range(i*i,n,i):
-                    sieve[j]=False
-            i+=1
-        return sum(sieve)
+
+        is_prime = [True] * n
+        is_prime[0] = is_prime[1] = False
+
+        for i in range(2, int(n ** 0.5) + 1):
+            if is_prime[i]:
+                for j in range(i * i, n, i):
+                    is_prime[j] = False
+
+        return sum(is_prime)
