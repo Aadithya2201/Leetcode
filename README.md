@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aadithya2201/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Aadithya2201/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Aadithya2201/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aadithya2201/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aadithya2201/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aadithya2201/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0875-longest-mountain-in-array](https://github.com/Aadithya2201/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aadithya2201/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Aadithya2201/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0875-longest-mountain-in-array](https://github.com/Aadithya2201/Leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Backtracking
@@ -85,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aadithya2201/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aadithya2201/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aadithya2201/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
