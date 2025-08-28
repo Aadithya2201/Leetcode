@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Aadithya2201/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Aadithya2201/Leetcode/tree/master/0242-valid-anagram) |
+| [1205-defanging-an-ip-address](https://github.com/Aadithya2201/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aadithya2201/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3684-substring-matching-pattern](https://github.com/Aadithya2201/Leetcode/tree/master/3684-substring-matching-pattern) |
 ## Sorting
