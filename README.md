@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aadithya2201/Leetcode/tree/master/0029-divide-two-integers) |
+| [1054-complement-of-base-10-integer](https://github.com/Aadithya2201/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadithya2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
