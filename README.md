@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aadithya2201/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Aadithya2201/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0412-fizz-buzz](https://github.com/Aadithya2201/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadithya2201/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadithya2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Aadithya2201/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Aadithya2201/Leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Aadithya2201/Leetcode/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/Aadithya2201/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aadithya2201/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aadithya2201/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Aadithya2201/Leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Aadithya2201/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aadithya2201/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
