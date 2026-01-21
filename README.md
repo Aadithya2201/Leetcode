@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aadithya2201/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadithya2201/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Aadithya2201/Leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Aadithya2201/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadithya2201/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aadithya2201/Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Aadithya2201/Leetcode/tree/master/0136-single-number) |
 | [1054-complement-of-base-10-integer](https://github.com/Aadithya2201/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadithya2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
