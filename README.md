@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aadithya2201/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/Aadithya2201/Leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadithya2201/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Aadithya2201/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0875-longest-mountain-in-array](https://github.com/Aadithya2201/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aadithya2201/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aadithya2201/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Aadithya2201/Leetcode/tree/master/0283-move-zeroes) |
 | [0875-longest-mountain-in-array](https://github.com/Aadithya2201/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadithya2201/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
