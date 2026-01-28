@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aadithya2201/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Aadithya2201/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aadithya2201/Leetcode/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aadithya2201/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadithya2201/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Aadithya2201/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadithya2201/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aadithya2201/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Aadithya2201/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aadithya2201/Leetcode/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aadithya2201/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aadithya2201/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Aadithya2201/Leetcode/tree/master/0283-move-zeroes) |
