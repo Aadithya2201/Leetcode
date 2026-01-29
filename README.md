@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aadithya2201/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Aadithya2201/Leetcode/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Aadithya2201/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/Aadithya2201/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadithya2201/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aadithya2201/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Aadithya2201/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Aadithya2201/Leetcode/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/Aadithya2201/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadithya2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aadithya2201/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Aadithya2201/Leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
