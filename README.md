@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aadithya2201/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0875-longest-mountain-in-array](https://github.com/Aadithya2201/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadithya2201/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Aadithya2201/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aadithya2201/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Aadithya2201/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aadithya2201/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aadithya2201/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aadithya2201/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Simulation
 |  |
