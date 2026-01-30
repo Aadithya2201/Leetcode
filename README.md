@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aadithya2201/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Aadithya2201/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Aadithya2201/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadithya2201/Leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadithya2201/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Aadithya2201/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aadithya2201/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Aadithya2201/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aadithya2201/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aadithya2201/Leetcode/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Aadithya2201/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/Aadithya2201/Leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aadithya2201/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aadithya2201/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aadithya2201/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aadithya2201/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aadithya2201/Leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Aadithya2201/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aadithya2201/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aadithya2201/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aadithya2201/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aadithya2201/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadithya2201/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadithya2201/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadithya2201/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aadithya2201/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Aadithya2201/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Aadithya2201/Leetcode/tree/master/0268-missing-number) |
 | [1646-kth-missing-positive-number](https://github.com/Aadithya2201/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Aadithya2201/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Aadithya2201/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Aadithya2201/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Aadithya2201/Leetcode/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/Aadithya2201/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadithya2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
