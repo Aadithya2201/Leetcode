@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Aadithya2201/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1205-defanging-an-ip-address](https://github.com/Aadithya2201/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aadithya2201/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/Aadithya2201/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadithya2201/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aadithya2201/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3684-substring-matching-pattern](https://github.com/Aadithya2201/Leetcode/tree/master/3684-substring-matching-pattern) |
