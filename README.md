@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aadithya2201/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aadithya2201/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Aadithya2201/Leetcode/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/Aadithya2201/Leetcode/tree/master/0709-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Aadithya2201/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Aadithya2201/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadithya2201/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
