@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadithya2201/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aadithya2201/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aadithya2201/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/Aadithya2201/Leetcode/tree/master/2974-minimum-number-game) |
 | [3668-restore-finishing-order](https://github.com/Aadithya2201/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aadithya2201/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Aadithya2201/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadithya2201/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Aadithya2201/Leetcode/tree/master/2974-minimum-number-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Aadithya2201/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aadithya2201/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aadithya2201/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2974-minimum-number-game](https://github.com/Aadithya2201/Leetcode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aadithya2201/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Aadithya2201/Leetcode/tree/master/2974-minimum-number-game) |
 ## Queue
 |  |
 | ------- |
