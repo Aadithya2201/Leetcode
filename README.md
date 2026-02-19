@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aadithya2201/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aadithya2201/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aadithya2201/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3668-restore-finishing-order](https://github.com/Aadithya2201/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aadithya2201/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aadithya2201/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Aadithya2201/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3668-restore-finishing-order](https://github.com/Aadithya2201/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Aadithya2201/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
