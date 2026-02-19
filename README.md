@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Aadithya2201/Leetcode/tree/master/1518-water-bottles) |
 | [2469-convert-the-temperature](https://github.com/Aadithya2201/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aadithya2201/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aadithya2201/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Hash Table
 |  |
 | ------- |
