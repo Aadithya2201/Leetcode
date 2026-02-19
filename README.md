@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadithya2201/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Aadithya2201/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Aadithya2201/Leetcode/tree/master/1518-water-bottles) |
+| [2469-convert-the-temperature](https://github.com/Aadithya2201/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Hash Table
 |  |
 | ------- |
